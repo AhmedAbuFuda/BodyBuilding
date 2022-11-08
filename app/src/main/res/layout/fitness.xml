@@ -1,0 +1,163 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical" >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/C"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView12"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:paddingLeft="20dp"
+            android:text="Part One"
+            android:textColor="@color/black"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView5"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:fontFamily="@font/lobster"
+            android:paddingLeft="25dp"
+            android:text="First meal - breakfast:"
+            android:textColor="@color/design_default_color_error"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textView7"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:fontFamily="@font/eb_garamond"
+            android:paddingLeft="25dp"
+            android:paddingRight="20dp"
+            android:text="A cup of skimmed milk (250 ml) with the amount that suits you of oats. 2 whole boiled eggs with black bread and olive oil. 4 egg whites (without the yolks)."
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView8"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:fontFamily="@font/lobster"
+            android:paddingLeft="25dp"
+            android:text="The Second Meal - Snack:"
+            android:textColor="@color/design_default_color_error"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textView9"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:fontFamily="@font/eb_garamond"
+            android:paddingLeft="25dp"
+            android:paddingRight="20dp"
+            android:text="The equivalent of a fist of almonds or peanuts (cocoa) or chickpeas + a fruit (orange, apple, banana)"
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView10"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:fontFamily="@font/lobster"
+            android:paddingLeft="25dp"
+            android:text="The third meal - lunch:"
+            android:textColor="@color/design_default_color_error"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textView11"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:fontFamily="@font/eb_garamond"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="250 grams of chicken breast or pure veal or fish (preferably grilled or boiled), green salad bowl, medium boiled potatoes, brown rice."
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView13"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:paddingLeft="20dp"
+            android:text="Part Two"
+            android:textColor="@color/black"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView14"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:fontFamily="@font/lobster"
+            android:paddingLeft="25dp"
+            android:text="pre-workout meal:"
+            android:textColor="@color/design_default_color_error"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textView15"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:fontFamily="@font/eb_garamond"
+            android:paddingLeft="25dp"
+            android:paddingRight="20dp"
+            android:text="A small cup of plain coffee + a banana + a tablespoon of low-fat peanut butter."
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView16"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:fontFamily="@font/lobster"
+            android:paddingLeft="25dp"
+            android:text="After exercise:"
+            android:textColor="@color/design_default_color_error"
+            android:textSize="20sp" />
+
+        <TextView
+            android:id="@+id/textView17"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="5dp"
+            android:fontFamily="@font/eb_garamond"
+            android:paddingLeft="25dp"
+            android:paddingRight="20dp"
+            android:text="A banana or apple + 30 grams of whey protein with water + a bowl of 150 grams of rice + a can of tuna."
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView18"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:fontFamily="@font/eb_garamond"
+            android:paddingLeft="20dp"
+            android:paddingRight="20dp"
+            android:text="Note: This diet will not suit all people as I mentioned in the introduction to the post,  because each weight has its own system and each person has the goal that he seeks,  but by intelligently adjusting the amount you eat, you will make this system compatible with your body."
+            android:textColor="@color/purple_700"
+            android:textSize="20sp" />
+    </LinearLayout>
+</ScrollView>

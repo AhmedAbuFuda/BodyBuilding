@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/general"
+        android:title="General" >
+        <menu >
+            <item
+                android:id="@+id/fitness"
+                android:icon="@drawable/ic_baseline_fitness_center_24"
+                android:title="Fitness" />
+            <item
+                android:id="@+id/work"
+                android:icon="@drawable/ic_baseline_accessibility_24"
+                android:title="Work" />
+            <item
+                android:id="@+id/food"
+                android:icon="@drawable/ic_baseline_food_bank_24"
+                android:title="Food" />
+            <item
+                android:id="@+id/videos"
+                android:icon="@drawable/ic_baseline_video_library_24"
+                android:title="Videos" />
+            <item
+                android:id="@+id/log"
+                android:icon="@drawable/ic_baseline_arrow_back_24"
+                android:title="Log out" />
+        </menu>
+    </item>
+</menu>

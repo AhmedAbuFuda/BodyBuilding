@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:background="@color/C"
+        android:orientation="vertical">
+
+        <TextView
+            android:id="@+id/textView6"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/lobster"
+            android:paddingLeft="20dp"
+            android:text="First Day:"
+            android:textColor="@color/design_default_color_error"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView19"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/eb_garamond"
+            android:paddingLeft="25dp"
+            android:paddingRight="20dp"
+            android:text="Breakfast: two slices of brown toast, and two boiled eggs. \nLunch: a salad plate that contains 2 tomatoes, a piece of cucumber, bell pepper, rocca, half a carrot, lemon juice, only one spoonful of olive oil and half a boiled chicken breast, provided that the skin is removed. \nDinner: skimmed yogurt, lettuce or cucumber."
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView20"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/lobster"
+            android:paddingLeft="20dp"
+            android:text="Second Day:"
+            android:textColor="@color/design_default_color_error"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView21"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/eb_garamond"
+            android:paddingLeft="25dp"
+            android:paddingRight="20dp"
+            android:text="Breakfast: two slices of brown toast with a piece of white cheese the size of an egg,  a number of teaspoons of olive oil in addition to rocca. \nLunch: 250 grams of grilled fish with a plate of vegetable salad. \nDinner: two slices of brown toast, one slice of turkey, with skimmed yogurt."
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView22"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/lobster"
+            android:paddingLeft="20dp"
+            android:text="Third Day:"
+            android:textColor="@color/design_default_color_error"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView23"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/eb_garamond"
+            android:paddingLeft="25dp"
+            android:paddingRight="20dp"
+            android:text="Breakfast: 1 boiled egg, with a teaspoon of olive oil, green thyme and a slice of brown toast, with a cup of natural orange juice. \nLunch: a can of tuna without oil at all, a slice of brown toast, two cucumbers. \nDinner: just one apple, a cup of skimmed yogurt, a slice of brown toast."
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView24"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/lobster"
+            android:paddingLeft="20dp"
+            android:text="Fourth Day:"
+            android:textColor="@color/design_default_color_error"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView25"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/eb_garamond"
+            android:paddingLeft="25dp"
+            android:paddingRight="20dp"
+            android:text="Breakfast: 1 cup of grapefruit juice, 1 omelette without oil, with celery and green pepper. \nLunch: a quarter of a chicken breast marinated with herbs such as oregano or rosemary and lemon, and steamed with broccoli, carrots and red beans. \nDinner: topped with skimmed yogurt."
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView26"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/lobster"
+            android:paddingLeft="20dp"
+            android:text="Fifth Day:"
+            android:textColor="@color/design_default_color_error"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView27"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/eb_garamond"
+            android:paddingLeft="25dp"
+            android:paddingRight="20dp"
+            android:text="Breakfast: a piece of white cheese with a piece of fruit. \nLunch: grilled fish with a salad or with a small white rice dish, to be free of fat. \nDinner: lettuce with skimmed yogurt and a slice of brown toast."
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+
+        <TextView
+            android:id="@+id/textView28"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/lobster"
+            android:paddingLeft="20dp"
+            android:text="Sixth Day:"
+            android:textColor="@color/design_default_color_error"
+            android:textSize="24sp"
+            android:textStyle="bold" />
+
+        <TextView
+            android:id="@+id/textView29"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:fontFamily="@font/eb_garamond"
+            android:paddingLeft="25dp"
+            android:paddingRight="20dp"
+            android:text="Breakfast: a slice of brown toast with jam, and a cup of grapefruit juice. \nLunch: veggie burger without fat consisting of a carrot, half a small eggplant, broccoli. Chop and stuff with a piece of cheddar and cook in the oven for 20 minutes, with a cup of apple juice. \nDinner: 1 cup of light yogurt, 2 cucumbers."
+            android:textColor="@color/black"
+            android:textSize="18sp" />
+    </LinearLayout>
+</ScrollView>
